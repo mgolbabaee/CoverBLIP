@@ -9,6 +9,6 @@ M Golbabaee, Z Chen, Y Wiaux, M Davies, “CoverBLIP: accelerated and scalable i
 
 M Golbabaee, Z Chen, Y Wiaux, M Davies, “Cover tree compressed sensing for fast MR fingerprint recovery”, IEEE 27th International Workshop on Machine Learning for Signal Processing (MLSP), 2017, (doi: 10.1109/MLSP.2017.8168167).
 
-More details about the package can be found in readme.docx file. 
+More details about the package can be found in Readme.docx file. 
 
 © Mohammad Golbabaee (2018)

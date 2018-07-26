@@ -11,4 +11,4 @@ M Golbabaee, Z Chen, Y Wiaux, M Davies, “Cover tree compressed sensing for fas
 
 More details about the package can be found in Readme.docx file. 
 
-© Mohammad Golbabaee (2018)
+© M Golbabaee (2018)
